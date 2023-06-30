@@ -8,6 +8,6 @@ Hope you enjoy! (some content is in portuguese from Brazil).
 
 | Title | Location | Date | Link | 
 | --------------- | --------------- | --------------- | --------------- |
-| Integrated jorney about DevSecOps #1 | Microsoft TechSeries | jan-2023 | [TechSeries](https://www.microsoft.com/pt-br/events-hub/brazil/azure-tech-series-jornada-integrada-devsecops/){:target="_blank"} |
-| Integrated jorney about DevSecOps #2 | DevOps Bootcamp | jan-2023 | [DevOps Bootcamp] (https://www.youtube.com/live/FezhOsv_1yM?feature=share){:target="_blank"} | 
-| Integrated jorney about DevSecOps #3 | Microsoft Reactor | mar-2023 | [Microsoft Reactor] (https://www.youtube.com/live/pd08fUrpCw8?feature=share){:target="_blank"} | 
+| Integrated jorney about DevSecOps #1 | Microsoft TechSeries | jan-2023 | [Microsoft TechSeries](https://www.microsoft.com/pt-br/events-hub/brazil/azure-tech-series-jornada-integrada-devsecops/) |
+| Integrated jorney about DevSecOps #2 | DevOps Bootcamp | jan-2023 | [DevOps Bootcamp](https://www.youtube.com/live/FezhOsv_1yM?feature=share) | 
+| Integrated jorney about DevSecOps #3 | Microsoft Reactor | mar-2023 | [Microsoft Reactor](https://www.youtube.com/live/pd08fUrpCw8?feature=share) | 
