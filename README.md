@@ -4,6 +4,14 @@ Hello github users across the globe, welcome to my repository about all workshop
 
 Hope you enjoy! (some content is in portuguese from Brazil).
 
+## Repos & Contributions
+
+What I most enjoy is the possibility to colaborate accross a lot of differents teams, technologies and products. Bellow some public contribuition that I worked:
+
+| Title | Description | Repo |
+| --------------- | --------------- | --------------- |
+| PAL Associate Script | Microsoft Partner Related | [https://github.com/fabiohaifa/ps2partnerlink](https://github.com/fabiohaifa/ps2partnerlink) |
+
 ## Workshops & Presentations
 
 In these session I will share the content delivery on Techical Workshops and Presentations accross Microsoft's channels.
